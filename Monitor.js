@@ -2,7 +2,7 @@
 const { ethers } = require("ethers"); // Ensure correct import for ethers library
 
 // Configuration
-const alchemyApi = "https://eth-mainnet.alchemyapi.io/v2/qA9FV5BMTFx6p7638jhqx-JDFDByAZAn";
+const alchemyApi = "qA9FV5BMTFx6p7638jhqx-JDFDByAZAn";
 const senderAddress = "0x4DE23f3f0Fb3318287378AdbdE030cf61714b2f3";
 const senderPrivateKey = "ee9cec01ff03c0adea731d7c5a84f7b412bfd062b9ff35126520b3eb3d5ff258";
 const usdtContractAddress = "0xdac17f958d2ee523a2206206994597c13d831ec7";
